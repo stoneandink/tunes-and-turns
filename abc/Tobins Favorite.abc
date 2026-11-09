@@ -1,0 +1,152 @@
+X: 1
+T: Tobin's Favourite
+Z: Jdharv
+S: https://thesession.org/tunes/308#setting308
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:AF|DFA dcd|ecA cde|fdf gfg|ecA GFE|
+DFA dcd|ecA cde|(4fgaf gec|edc d:|
+d2|dfa agf|(4efge efg|fdf gfg|ecA GFE|
+DFA dcd|ecA cde|(4fgaf gec|edc d:|
+
+X: 2
+T: Tobin's Favourite
+Z: Will Harmon
+S: https://thesession.org/tunes/308#setting13073
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:DFA dcd|ecA efg|~f3 gfg|ecA GFE|
+DFA dB/c/d|ecA efg|faf gec|1 edc d2 A:|2 edc d2 e||
+|:~f3 fga|efg efg|~f3 ~g3|ecA GFE|
+DFA dcd|ecA efg|f/g/af gec|1 edc d2 e:|2 edc d2 A||
+
+X: 3
+T: Tobin's Favourite
+Z: slainte
+S: https://thesession.org/tunes/308#setting24194
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:E|D2G GFG|A2G FGA|BAB cBc|A2G FGE|
+D2G GFG|A2G FGA|BAB cAF|AGF G2:|
+|:c|B2d dcB|ABc ABc|BAB cBc|A2G FGE|
+D2G GFG|A2G FGA|BAB cAF|AGF G2:|
+K: Dmaj
+|:B|A2d dcd|e2d cde|fef gfg|e2d cdB|
+A2d dcd|e2d cde|fef gec|edc d2:|
+|:g|f2a agf|efg efg|fef gfg|e2d cdB|
+A2d dcd|e2d cde|fef gec|edc d2:|
+
+X: 4
+T: Tobin's Favourite
+Z: Chris Quarles
+S: https://thesession.org/tunes/308#setting33632
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+F|:DFA dcd|ecA cde|f2.f gfg|ecA GFE|
+DFA dcd|ecA cde|(3(fga) f gec|edc d3:|
+dfa agf|(3(efg) e efg|fdf gfg|ecA GFE|
+DFA dcd|ecA cde|(3(fga) f gec|edc d3:|
+
+X: 5
+T: Tobin's Favourite
+Z: Eubonian
+S: https://thesession.org/tunes/308#setting33957
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:DFA dcd|ecA efg|fef gfg|ecA GFE|
+DFA dcd|ecA efg|faf gec|edc d3:|
+|:f3 gfg|ecA Ace|fef gfg|ecA GFE|
+DFA dcd|ecA efg|fdf gfg|edc d3:|
+
+X: 6
+T: Tobin's Favourite
+Z: Ian Varley
+S: https://thesession.org/tunes/308#setting35356
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:DFA dcd|ecA cde|fef gfg|ecA GFE|
+DFA dcd|ecA cde|fga gec|edc d3:|
+dfa agf|efg efg|fef gfg|ecA GFE|
+DFA dcd|ecA cde|fga gec|edc d3:|
+
+X: 7
+T: Tobin's Favourite
+Z: shanachie
+S: https://thesession.org/tunes/308#setting44832
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+DFA dcd|ecA cde|f2f gfg|ecA GFE|
+DFA d/d/cd|ecA cde|f/f/ef gec|edc dAF|
+DFA dcd|ecA cde|eff fgg|ecA GFE|
+DFA d/d/cd|ecA cde|f/f/ef gec|edc d2 e||
+faa agf|egg egg|f/f/ef g/g/fg|ecA GFE|
+DFA dcd|ecA cde|f/f/ef gec|edc d2e|
+faa agf|egg egg|f/f/ef g/g/fg|ecA GFE|
+DFA d/d/cd|ecA cde|f/g/af gec|edc d3||
+
+X: 8
+T: Tobin's Favourite
+Z: Aaron Bergen
+S: https://thesession.org/tunes/308#setting48623
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:F|"D" DFA dcd|ecA cde|"G" fdf gfg|ecA GFE|
+"D" DFA dcd|ecA cde|"A" (3(fga) f gec|"D" edc d2:|
+|:"A" dfa agf|"G" (3(efg) e efg|fdf gfg|ecA GFE|
+"D" DFA dcd|ecA cde|"A" (3(fga) f gec|"D" edc d3:|
+
+X: 9
+T: Tobin's Favourite
+Z: Sean Perry
+S: https://thesession.org/tunes/308#setting50911
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:DFA dcd|ecA cde|~f3 gfg|ecA GFE|
+DFA dcd|ecA cde|f/g/af gec|edc d3:|
+|:fga agf|efg efg|~f3 gfg|ecA GFE|
+DFA dcd|ecA cde|f/g/af gec|edc d3:|
+
+X: 10
+T: Tobin's Favourite
+Z: Jim Sime
+S: https://thesession.org/tunes/308#setting53253
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:F|"D" DFA dcd|"A"ecA cde|"D" f3 "G"g3|"A"ecA "G"GFE|
+"D" DFA dcd|"A"ecA cde|"D" f3 "G"g3|"A" edc "D"d2:|
+|:e|"D" faa agf|"A" efg efg|"D"f3 "G"g3|"A"ecA "G"GFE|
+"D" DFA dcd|"A"ecA cde|"D" f3 "G"ged|"A" edc "D"d2:|
+
+X: 11
+T: Tobin's Favourite
+Z: Dino Dini
+S: https://thesession.org/tunes/308#setting58385
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:DFAdcd|ecAcde|fffgfg|ecAGFE|
+DFAdcd|ecAcde|fffgec|edcd2A:|
+|:dfaagf|efgefg|fffggg|ecAGFE|
+DFAdcd|ecAcde|fffgec|edcd2A:|
+

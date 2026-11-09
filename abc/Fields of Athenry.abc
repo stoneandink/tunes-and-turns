@@ -1,0 +1,42 @@
+X:1
+T:The Fields of Athenry
+C:Pete St. John
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+%%MIDI gchord czc2
+"Verse"
+DD | "G"D3D G2A2 | B6 B2 | "C"c3c c2d2 | "G"(B4- BcBG) |
+"D"A8 | "G"dd3 d2B2 | "C"c3d c2B2 | "D"A8- |
+A4 B2c2 | "G"d3d d2B2 | "C"c6 dc | "G"B3A (GA)B2 |
+"D"A6 DD | AA3 B2c2 | B2A2 G2F2 | "G"G8- | G8 ||
+"Chorus"
+"G"d8 | "C"e6 d2 | "G"G4 zDGA | B6 A2 |
+G3D G2A2 | B4 c2d2 | "D"A8- | A6 (Bc) |
+"G"d3d d2B2 | "C"c6 dc | "G"B3A (GA2)B | "D"A6 DD |
+AA3 B2c2 | B2A2 G2F2 | "G"G8- | G6 ||
+W:
+W:By a lonely prison wall, I heard a young girl calling
+W:"Michael, they have taken you away,
+W:For you stole Trevelyan's corn,
+W:So the young might see the morn.
+W:Now a prison ship lies waiting in the bay."
+W:
+W:Low lie the fields of Athenry
+W:Where once we watched the small free birds fly
+W:Our love was on the wing
+W:We had dreams and songs to sing
+W:It's so lonely round the fields of Athenry.
+W:
+W:By a lonely prison wall, I heard a young man calling
+W:"Nothing matters, Mary, when you're free
+W:Against the famine and the crown,
+W:I rebelled, they cut me down.
+W:Now you must raise our child with dignity." CHORUS
+W:
+W:By a lonely harbor wall, she watched the last star fall
+W:As the prison ship sailed out against the sky
+W:Sure she'll wait and hope and pray for her love in Botany Bay
+W:It's so lonely round the fields of Athenry. CHORUS
+

@@ -1,0 +1,4 @@
+Entries: 35
+ABC matches: 35
+PDF matches: 9
+Grace uses the G-major arrangement; an A-major version is also included in abc/.
