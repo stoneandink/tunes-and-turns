@@ -517,7 +517,12 @@ fetch("repertory.json")
     return response.json();
   })
   .then(data => {
-    tunes = data;
+    tunes = data.sort((a, b) =>
+      a.title.localeCompare(b.title, undefined, {
+        sensitivity: "base",
+        ignorePunctuation: true
+      })
+    );
 
     makeOptions("type", "type");
     makeOptions("status", "status");
