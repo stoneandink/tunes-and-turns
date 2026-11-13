@@ -1,18 +1,18 @@
-X:1
+X:13
 T:Danny Boy
-C:Traditional (Londonderry Air / Fred Weatherly)
+C:Traditional
 M:4/4
-L:1/4
+L:1/8
+Q:1/8=150
 K:C
-"C"EFG | "C7"c3 B "F"cdcA | "C"GE "Am"C2 "D7"EFG | "G"A3 B "C"AGEC | "G"D4 "C"EFG |
-"C7"c3 B "F"cdcA | "C"GE "Am"C2 "C"EFG | "A7"A3 B "Dm"AG "G7"FD | "C"C4 ||
-"G"G AB | "C"c3 d "Am"edcA | "C"GE "Am"C2 "G"GAB | "C"c3 d "C7"ecge | "F"d4 "C"EFG |
-"C"c3 B "F"cdcA | "C"GE "Am"C2 "F"FEFD | "C"C4 z ||
-W:
-W:Oh, Danny Boy, the pipes, the pipes are calling
-W:From glen to glen and down the mountainside
-W:The summer’s gone and all the flowers are dying
-W:'Tis you, it’s you must go, and I must bide
+B, CD|"C"E3 D EA"C7"GE|"F"DC A,2 A,C"Fm"EF|"C"G3 A GE"Am6"CE|("Fm6"D4"G7"D)"N.C."B,AD|
+w:Oh, Dan-ny Boy, the pipes, the pipes are call-*ing*from glen to glen, and down the moun-tain side.*The sum-mer's
+"C"E3 D EA"C7"GE|"F6"DC (A,2A,)B,"Fm"CD|"C/G"E3 F "G7"EDCD|("C"C4 C)"N.C."GAB|
+w:gone, and all the ros-es fall*ing*It's you, it's you must go and I must bide.*But come ye
+"C"c3 B "F6"BA"G7"GA|"Am7"GE (C2 C)GAB|"Am"C3 B "F6"BA"Em6"GE|("D7"D4 "G7"D)"N.C"GGG|
+w:back when sum-mer's in the mead*ow,*or when the val-ley's hush'd and white with snow.*'Tis I'll be
+"C"e3 "C9"d "F"dc"F#dim"Ac|"C"G"E7"E ("Am"C2 "F#m7b5"C)B,"Fm6"CD|"C7G"EA"Am7"GE "F6"DC"G7"A,B,|"C"(C4 C)||
+w:there in sun-shine or in shad*ow, * oh, Dan-ny Boy, oh Dan-ny Boy, I love you so!
 W:
 W:But come ye back when summer’s in the meadow
 W:Or when the valley’s hushed and white with snow
